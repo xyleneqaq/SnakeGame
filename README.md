@@ -7,13 +7,13 @@ UI + Map + SnakeMovement + collision detection 👉 EventBundle
 4. **Collision Detection**
 5. **KeyboardMonitoring**:Simple Thread Synchronizing
 ---
-My first programme data.Just realized some basic function...qwq
+My first programming attempt...Just realize some basic function...qwq
 
 
 👉Enemy System to be added.
 
 
-👉Different Landform Type with different snake response.
+👉Different Landform Type (with different snake response) to be added.
 
 
-👉Better UI System (using Winform).
+👉UI System to be uograded.(using Winform🤨) 
