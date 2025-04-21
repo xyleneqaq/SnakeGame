@@ -1,0 +1,5 @@
+C:\Users\马乐之\Desktop\CSharpProject\SnakePublished\SnakeGame.exe
+C:\Users\马乐之\Desktop\CSharpProject\SnakePublished\SnakeGame.dll
+C:\Users\马乐之\Desktop\CSharpProject\SnakePublished\SnakeGame.deps.json
+C:\Users\马乐之\Desktop\CSharpProject\SnakePublished\SnakeGame.runtimeconfig.json
+C:\Users\马乐之\Desktop\CSharpProject\SnakePublished\SnakeGame.pdb
