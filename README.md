@@ -1,8 +1,8 @@
 # Framework
 UI + Map + SnakeMovement + collision detection 👉 EventBundle
 
-1. **UI**
-2. **Map**
+1. **UI**:Direct I/O Stream
+2. **Map**:Dictionary storing states.(Some states are not mutually excluded🤨)
 3. **SnakeMovement**: controlled by state machine
 4. **Collision Detection**
 5. **KeyboardMonitoring**:Simple Thread Synchronizing
