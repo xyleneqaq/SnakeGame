@@ -17,3 +17,11 @@ My first programming attempt...Just realize some basic function...qwq
 
 
 👉UI System to be uograded.(using Winform🤨) 
+---
+# Updates 2.0
+
+👉 Enemy System embeded : More FSM
+
+👉 UI System upgraded.(winform not used though)
+
+👉 Code Simplification.
